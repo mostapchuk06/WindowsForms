@@ -1,0 +1,18 @@
+C:\WindowsForms\Find next\Find next\bin\Debug\net6.0-windows\Find next.exe
+C:\WindowsForms\Find next\Find next\bin\Debug\net6.0-windows\Find next.deps.json
+C:\WindowsForms\Find next\Find next\bin\Debug\net6.0-windows\Find next.runtimeconfig.json
+C:\WindowsForms\Find next\Find next\bin\Debug\net6.0-windows\Find next.dll
+C:\WindowsForms\Find next\Find next\bin\Debug\net6.0-windows\Find next.pdb
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.csproj.AssemblyReference.cache
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find_next.FindNextGame.resources
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find_next.ChooseTheLvlForm.resources
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.csproj.GenerateResource.cache
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.GeneratedMSBuildEditorConfig.editorconfig
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.AssemblyInfoInputs.cache
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.AssemblyInfo.cs
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.csproj.CoreCompileInputs.cache
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.dll
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\refint\Find next.dll
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.pdb
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\Find next.genruntimeconfig.cache
+C:\WindowsForms\Find next\Find next\obj\Debug\net6.0-windows\ref\Find next.dll
