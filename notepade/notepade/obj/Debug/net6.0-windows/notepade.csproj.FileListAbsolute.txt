@@ -1,0 +1,17 @@
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.csproj.AssemblyReference.cache
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.csproj.GenerateResource.cache
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.GeneratedMSBuildEditorConfig.editorconfig
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.AssemblyInfoInputs.cache
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.AssemblyInfo.cs
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.csproj.CoreCompileInputs.cache
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.Form1.resources
+C:\WindowsForms\notepade\notepade\bin\Debug\net6.0-windows\notepade.exe
+C:\WindowsForms\notepade\notepade\bin\Debug\net6.0-windows\notepade.deps.json
+C:\WindowsForms\notepade\notepade\bin\Debug\net6.0-windows\notepade.runtimeconfig.json
+C:\WindowsForms\notepade\notepade\bin\Debug\net6.0-windows\notepade.dll
+C:\WindowsForms\notepade\notepade\bin\Debug\net6.0-windows\notepade.pdb
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.dll
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\refint\notepade.dll
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.pdb
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\notepade.genruntimeconfig.cache
+C:\WindowsForms\notepade\notepade\obj\Debug\net6.0-windows\ref\notepade.dll
